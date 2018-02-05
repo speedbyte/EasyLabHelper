@@ -1,0 +1,432 @@
+[groups]
+ezsadmins = ezslab, vagrawal, friedric
+saadmins = friedric
+
+#----------------------EDIT ZONE START---------------------------------------------
+#Start adding the names of the users here 
+
+ezs-stud-group1 = XXXXit00
+ezs-stud-group2 = XXXXit00
+ezs-stud-group3 = XXXXit00
+ezs-stud-group4 = XXXXit00
+ezs-stud-group5 = XXXXit00
+ezs-stud-group6 = XXXXit00
+ezs-stud-group7 = XXXXit00
+ezs-stud-group8 = XXXXit00
+ezs-stud-group9 = XXXXit00
+ezs-stud-group10 = XXXXit00
+ezs-stud-group11 = XXXXit00
+ezs-stud-group12 = XXXXit00
+ezs-stud-group13 = XXXXit00
+ezs-stud-group14 = XXXXit00
+ezs-stud-group15 = XXXXit00
+ezs-stud-group16 = XXXXit00
+ezs-stud-group17 = XXXXit00
+ezs-stud-group18 = XXXXit00
+ezs-stud-group19 = XXXXit00
+ezs-stud-group20 = XXXXit00
+ezs-stud-group21 = XXXXit00
+ezs-stud-group22 = XXXXit00
+ezs-stud-group23 = XXXXit00
+ezs-stud-group24 = XXXXit00
+ezs-stud-group25 = XXXXit00
+ezs-stud-group26 = XXXXit00
+ezs-stud-group27 = XXXXit00
+ezs-stud-group28 = XXXXit00
+ezs-stud-group29 = XXXXit00
+ezs-stud-group30 = XXXXit00
+ezs-stud-group31 = XXXXit00
+ezs-stud-group32 = XXXXit00
+ezs-stud-group33 = XXXXit00
+ezs-stud-group34 = XXXXit00
+ezs-stud-group35 = XXXXit00
+
+
+#---------------------Start SA ------------
+
+sa-stud-group1 = XXXXit00
+sa-stud-group2 = XXXXit00
+sa-stud-group3 = XXXXit00
+sa-stud-group4 = XXXXit00
+sa-stud-group5 = XXXXit00
+sa-stud-group6 = XXXXit00
+sa-stud-group7 = XXXXit00
+sa-stud-group8 = XXXXit00
+sa-stud-group9 = XXXXit00
+sa-stud-group10 = XXXXit00
+sa-stud-group11 = XXXXit00
+sa-stud-group12 = XXXXit00
+sa-stud-group13 = XXXXit00
+sa-stud-group14 = XXXXit00
+sa-stud-group15 = XXXXit00
+sa-stud-group16 = XXXXit00
+sa-stud-group17 = XXXXit00
+sa-stud-group18 = XXXXit00
+sa-stud-group19 = XXXXit00
+sa-stud-group20 = XXXXit00
+sa-stud-group21 = XXXXit00
+sa-stud-group22 = XXXXit00
+sa-stud-group23 = XXXXit00
+sa-stud-group24 = XXXXit00
+sa-stud-group25 = XXXXit00
+sa-stud-group26 = XXXXit00
+sa-stud-group27 = XXXXit00
+sa-stud-group28 = XXXXit00
+sa-stud-group29 = XXXXit00
+sa-stud-group30 = XXXXit00
+sa-stud-group31 = XXXXit00
+sa-stud-group32 = XXXXit00
+sa-stud-group33 = XXXXit00
+sa-stud-group34 = XXXXit00
+sa-stud-group35 = XXXXit00
+
+
+#----------------------EDIT ZONE END-----------------------------------------------
+
+ezs-stud-groupall = @ezs-stud-group1, @ezs-stud-group2, @ezs-stud-group3, @ezs-stud-group4, @ezs-stud-group5, @ezs-stud-group6, @ezs-stud-group7, @ezs-stud-group8, @ezs-stud-group9, @ezs-stud-group10, @ezs-stud-group11, @ezs-stud-group12, @ezs-stud-group13, @ezs-stud-group14, @ezs-stud-group15, @ezs-stud-group16, @ezs-stud-group17, @ezs-stud-group18, @ezs-stud-group19, @ezs-stud-group20, @ezs-stud-group21, @ezs-stud-group22, @ezs-stud-group23, @ezs-stud-group24, @ezs-stud-group25, @ezs-stud-group26, @ezs-stud-group27, @ezs-stud-group28, @ezs-stud-group29, @ezs-stud-group30, @ezs-stud-group31, @ezs-stud-group32, @ezs-stud-group33, @ezs-stud-group34, @ezs-stud-group35
+ 
+sa-stud-groupall = @sa-stud-group1, @sa-stud-group2, @sa-stud-group3, @sa-stud-group4, @sa-stud-group5, @sa-stud-group6, @sa-stud-group7, @sa-stud-group8, @sa-stud-group9, @sa-stud-group10, @sa-stud-group11, @sa-stud-group12, @sa-stud-group13, @sa-stud-group14, @sa-stud-group15, @sa-stud-group16, @sa-stud-group17, @sa-stud-group18, @sa-stud-group19, @sa-stud-group20, @sa-stud-group21, @sa-stud-group22, @sa-stud-group23, @sa-stud-group24, @sa-stud-group25, @sa-stud-group26, @sa-stud-group27, @sa-stud-group28, @sa-stud-group29, @sa-stud-group30, @sa-stud-group31, @sa-stud-group32, @sa-stud-group33, @sa-stud-group34, @sa-stud-group35
+ 
+[template:/]
+@ezsadmins = rw
+@ezs-stud-groupall = r
+
+[ezs-stud-repo1:/]
+@ezs-stud-group1 = rw
+@ezsadmins = r
+
+[ezs-stud-repo2:/]
+@ezs-stud-group2 = rw
+@ezsadmins = r
+
+[ezs-stud-repo3:/]
+@ezs-stud-group3 = rw
+@ezsadmins = r
+
+[ezs-stud-repo4:/]
+@ezs-stud-group4 = rw
+@ezsadmins = r
+
+[ezs-stud-repo5:/]
+@ezs-stud-group5 = rw
+@ezsadmins = r
+
+[ezs-stud-repo6:/]
+@ezs-stud-group6 = rw
+@ezsadmins = r
+
+[ezs-stud-repo7:/]
+@ezs-stud-group7 = rw
+@ezsadmins = r
+
+[ezs-stud-repo8:/]
+@ezs-stud-group8 = rw
+@ezsadmins = r
+
+[ezs-stud-repo9:/]
+@ezs-stud-group9 = rw
+@ezsadmins = r
+
+[ezs-stud-repo10:/]
+@ezs-stud-group10 = rw
+@ezsadmins = r
+
+[ezs-stud-repo11:/]
+@ezs-stud-group11 = rw
+@ezsadmins = r
+
+[ezs-stud-repo12:/]
+@ezs-stud-group12 = rw
+@ezsadmins = r
+
+[ezs-stud-repo13:/]
+@ezs-stud-group13 = rw
+@ezsadmins = r
+
+[ezs-stud-repo14:/]
+@ezs-stud-group14 = rw
+@ezsadmins = r
+
+[ezs-stud-repo15:/]
+@ezs-stud-group15 = rw
+@ezsadmins = r
+
+[ezs-stud-repo16:/]
+@ezs-stud-group16 = rw
+@ezsadmins = r
+
+[ezs-stud-repo17:/]
+@ezs-stud-group17 = rw
+@ezsadmins = r
+
+[ezs-stud-repo18:/]
+@ezs-stud-group18 = rw
+@ezsadmins = r
+
+[ezs-stud-repo19:/]
+@ezs-stud-group19 = rw
+@ezsadmins = r
+
+[ezs-stud-repo20:/]
+@ezs-stud-group20 = rw
+@ezsadmins = r
+
+[ezs-stud-repo21:/]
+@ezs-stud-group21 = rw
+@ezsadmins = r
+
+[ezs-stud-repo22:/]
+@ezs-stud-group22 = rw
+@ezsadmins = r
+
+[ezs-stud-repo23:/]
+@ezs-stud-group23 = rw
+@ezsadmins = r
+
+[ezs-stud-repo24:/]
+@ezs-stud-group24 = rw
+@ezsadmins = r
+
+[ezs-stud-repo25:/]
+@ezs-stud-group25 = rw
+@ezsadmins = r
+
+[ezs-stud-repo26:/]
+@ezs-stud-group26 = rw
+@ezsadmins = r
+
+[ezs-stud-repo27:/]
+@ezs-stud-group27 = rw
+@ezsadmins = r
+
+[ezs-stud-repo28:/]
+@ezs-stud-group28 = rw
+@ezsadmins = r
+
+[ezs-stud-repo29:/]
+@ezs-stud-group29 = rw
+@ezsadmins = r
+
+[ezs-stud-repo30:/]
+@ezs-stud-group30 = rw
+@ezsadmins = r
+
+[ezs-stud-repo31:/]
+@ezs-stud-group31 = rw
+@ezsadmins = r
+
+[ezs-stud-repo32:/]
+@ezs-stud-group32 = rw
+@ezsadmins = r
+
+[ezs-stud-repo33:/]
+@ezs-stud-group33 = rw
+@ezsadmins = r
+
+[ezs-stud-repo34:/]
+@ezs-stud-group34 = rw
+@ezsadmins = r
+
+[ezs-stud-repo35:/]
+@ezs-stud-group35 = rw
+@ezsadmins = r
+
+
+#--------------------SA REPOS -------------------------
+
+[sa-stud-repo1:/]
+@sa-stud-group1 = rw
+@saadmins = r
+
+[sa-stud-repo2:/]
+@sa-stud-group2 = rw
+@saadmins = r
+
+[sa-stud-repo3:/]
+@sa-stud-group3 = rw
+@saadmins = r
+
+[sa-stud-repo4:/]
+@sa-stud-group4 = rw
+@saadmins = r
+
+[sa-stud-repo5:/]
+@sa-stud-group5 = rw
+@saadmins = r
+
+[sa-stud-repo6:/]
+@sa-stud-group6 = rw
+@saadmins = r
+
+[sa-stud-repo7:/]
+@sa-stud-group7 = rw
+@saadmins = r
+
+[sa-stud-repo8:/]
+@sa-stud-group8 = rw
+@saadmins = r
+
+[sa-stud-repo9:/]
+@sa-stud-group9 = rw
+@saadmins = r
+
+[sa-stud-repo10:/]
+@sa-stud-group10 = rw
+@saadmins = r
+
+[sa-stud-repo11:/]
+@sa-stud-group11 = rw
+@saadmins = r
+
+[sa-stud-repo12:/]
+@sa-stud-group12 = rw
+@saadmins = r
+
+[sa-stud-repo13:/]
+@sa-stud-group13 = rw
+@saadmins = r
+
+[sa-stud-repo14:/]
+@sa-stud-group14 = rw
+@saadmins = r
+
+[sa-stud-repo15:/]
+@sa-stud-group15 = rw
+@saadmins = r
+
+[sa-stud-repo16:/]
+@sa-stud-group16 = rw
+@saadmins = r
+
+[sa-stud-repo17:/]
+@sa-stud-group17 = rw
+@saadmins = r
+
+[sa-stud-repo18:/]
+@sa-stud-group18 = rw
+@saadmins = r
+
+[sa-stud-repo19:/]
+@sa-stud-group19 = rw
+@saadmins = r
+
+[sa-stud-repo20:/]
+@sa-stud-group20 = rw
+@saadmins = r
+
+[sa-stud-repo21:/]
+@sa-stud-group21 = rw
+@saadmins = r
+
+[sa-stud-repo22:/]
+@sa-stud-group22 = rw
+@saadmins = r
+
+[sa-stud-repo23:/]
+@sa-stud-group23 = rw
+@saadmins = r
+
+[sa-stud-repo24:/]
+@sa-stud-group24 = rw
+@saadmins = r
+
+[sa-stud-repo25:/]
+@sa-stud-group25 = rw
+@saadmins = r
+
+[sa-stud-repo26:/]
+@sa-stud-group26 = rw
+@saadmins = r
+
+[sa-stud-repo27:/]
+@sa-stud-group27 = rw
+@saadmins = r
+
+[sa-stud-repo28:/]
+@sa-stud-group28 = rw
+@saadmins = r
+
+[sa-stud-repo29:/]
+@sa-stud-group29 = rw
+@saadmins = r
+
+[sa-stud-repo30:/]
+@sa-stud-group30 = rw
+@saadmins = r
+
+[sa-stud-repo31:/]
+@sa-stud-group31 = rw
+@saadmins = r
+
+[sa-stud-repo32:/]
+@sa-stud-group32 = rw
+@saadmins = r
+
+[sa-stud-repo33:/]
+@sa-stud-group33 = rw
+@saadmins = r
+
+[sa-stud-repo34:/]
+@sa-stud-group34 = rw
+@saadmins = r
+
+[sa-stud-repo35:/]
+@sa-stud-group35 = rw
+@saadmins = r
+
+
+
+
+## add a new group ezs-students with one member
+
+#dn: cn=ezs-students,ou=groups,dc=hs-esslingen,dc=de
+#changetype: add
+#objectClass: groupOfNames
+#objectClass: top
+#description: pwm admin groups branch
+#cn: ezs-students
+#member: cn=vagrawal,ou=people,dc=hs-esslingen,dc=de
+
+
+## add the OU students under people
+
+#dn: ou=students,ou=people,dc=hs-esslingen,dc=de
+#changetype: add
+#ou: students
+#objectClass: organizationalUnit
+#objectClass: top
+
+
+##add a new member under students
+
+
+#dn: cn=$(student-to-add),ou=students,ou=people,dc=hs-esslingen,dc=de
+#changetype: add
+#givenName: Ezslab
+#sn: Student 
+#userPassword:: e1NTSEF9UWZEb3U5MW40My9Dc1ZYbFNPMGI4a0drempSaFlqMFE=
+#mail: ezslab-student@hs-esslingen.de
+#objectClass: inetOrgPerson
+#objectClass: organizationalPerson
+#objectClass: person
+#objectClass: top
+#objectClass: pwmUser
+#memberof: cn=$(group-to-add),ou=groups,dc=hs-esslingen,dc=de
+#uid: $(student-to-add)
+#cn: $(student-to-add)
+
+## modify the added member
+
+#DN: cn=ezslabstudent1,ou=students,ou=people,dc=hs-esslingen,dc=de
+#changetype: modify
+#replace: userpassword
+#userpassword: youmustchangeyourpassword
+
+##add a member to the group ezs-students
+
+#dn: cn=$(member-to-add),ou=groups,ou=students,dc=hs-esslingen,dc=de
+#changetype: modify
+#add: member
+#member: cn=$(member-to-add),ou=people,ou=students,dc=hs-esslingen,dc=de
+
+

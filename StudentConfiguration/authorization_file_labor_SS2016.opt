@@ -1,0 +1,584 @@
+[groups]
+ezsadmins = ezslab, vagrawal, friedric
+saadmins = friedric
+
+#----------------------EDIT ZONE START---------------------------------------------
+#Start adding the names of the users here 
+
+
+#Aleg Vilinski	alviit00@hs-esslingen.de		
+#Pascal Helmrich	paheit01@hs-esslingen.de		
+
+#Axel Schwab	axscit00@hs-esslingen.de		
+#Christoph Friedrich	chfrit00@hs-esslingen.de		
+
+#Murat Durgun	muduit03@hs-esslingen.de		
+#Shaker Abdolrahman Al Saleh	shabit00@hs-esslingen.de		
+#Kazim Kaya	kakait01@hs-esslingen.de		
+
+#Peter Clotworthy	peclit00@hs-esslingen.de		
+#Rochelle Xenia Santos	rosait01@hs-esslingen.de		
+
+#Robin Eissele	roeiit00@hs-esslingen.de		
+#Armin Hasandic	arhait00@hs-esslingen.de		
+#Oliver Stein	olstit01@hs-esslingen.de		
+
+#Roman Solomakhov	rosoit00@hs-esslingen.de		
+#Sergej Kelberer	sekeit00@hs-esslingen.de		
+
+#Kai-Nikolas Muenz	E-Mail-Adresse verbergen		
+#Gianluca Panetta	gipait00@hs-esslingen.de
+
+ezsgroup1 = alviit00, paheit01
+ezsgroup2 = axscit00, chfrit00
+ezsgroup3 = muduit03, shabit00, kakait01
+ezsgroup4 = peclit00, rosait01
+ezsgroup5 = roeiit00, arhait00, olstit01
+ezsgroup6 = rosoit00, sekeit00
+ezsgroup7 = gipait00
+ezsgroup8 = XXXXit00
+ezsgroup9 = XXXXit00
+ezsgroup10 = XXXXit00
+ezsgroup11 = XXXXit00
+ezsgroup12 = XXXXit00
+ezsgroup13 = XXXXit00
+ezsgroup14 = XXXXit00
+ezsgroup15 = XXXXit00
+ezsgroup16 = XXXXit00
+ezsgroup17 = XXXXit00
+ezsgroup18 = XXXXit00
+ezsgroup19 = XXXXit00
+ezsgroup20 = XXXXit00
+ezsgroup21 = XXXXit00
+ezsgroup22 = XXXXit00
+ezsgroup23 = XXXXit00
+ezsgroup24 = XXXXit00
+ezsgroup25 = XXXXit00
+ezsgroup26 = XXXXit00
+ezsgroup27 = XXXXit00
+ezsgroup28 = XXXXit00
+ezsgroup29 = XXXXit00
+ezsgroup30 = XXXXit00
+ezsgroup31 = XXXXit00
+ezsgroup32 = XXXXit00
+ezsgroup33 = XXXXit00
+ezsgroup34 = XXXXit00
+ezsgroup35 = XXXXit00
+
+
+#---------------------Start SA ------------
+
+#David Simon	dasiit01@hs-esslingen.de		
+#Lars Helmuth Probst	laprit00@hs-esslingen.de		
+#Patrick Leibold	paleit00@hs-esslingen.de		
+
+#Frank Merkle	frmeit00@hs-esslingen.de		
+#Andy Woelfl	anwoit03@hs-esslingen.de		
+
+
+#Erik Schmid	erscit02@hs-esslingen.de		
+#Michael Schulz	miscit07@hs-esslingen.de		
+#Christoph Miller	chmiit01@hs-esslingen.de		
+
+
+#Annette Meguiazon-Kengny	anmeit01@hs-esslingen.de		
+#Liya Haile	lihait00@hs-esslingen.de		
+#Schiruza Aref	scarit00@hs-esslingen.de		
+
+#Ermias Ghilazghi	erghwi00@hs-esslingen.de		
+#Akan Yueksel	akyuwi00@hs-esslingen.de		
+#Philipp Turco	phtuwi00@hs-esslingen.de		
+
+#Bjoern Karoly	bjkait00@hs-esslingen.de		
+
+#Adrian Tomalla	adtoit00@hs-esslingen.de
+#Corvin Schapoehler	coscit00@hs-esslingen.de		
+
+#Sophia Schwab	soscit00@hs-esslingen.de		
+#Sebastian Bunz	sebuit02@hs-esslingen.de		
+
+#Robert Friedrich Beyer	robeit03@hs-esslingen.de		
+#Jan Holler	jahoit00@hs-esslingen.de		
+#Stavros Singoudis	stsiit01@hs-esslingen.de		
+
+#Mustafa Konur	mukoit00@hs-esslingen.de		
+#Ibrahim Amro	ibamit00@hs-esslingen.de		
+#Erdenetsetseg Erdenebileg	ererit02@hs-esslingen.de		
+
+#Marc Wendel	maweit05@hs-esslingen.de		
+#Vanessa Orendi	vaorit00@hs-esslingen.de		
+#Fabian Flaig	faflit00@hs-esslingen.de		
+
+#Buket Kaymakci	bukait01@hs-esslingen.de		
+#Juri Kononov	jukoit01@hs-esslingen.de		
+
+#Alan Cassidy	alcait00@hs-esslingen.de		
+#Onur Albayrak	onalit00@hs-esslingen.de		
+#Akif Cinar	akciit00@hs-esslingen.de		
+
+#Fabian Weber	faweit02@hs-esslingen.de		
+#Manuel Haeberle	mahait12@hs-esslingen.de		
+#Vincent Staudenmayer	vistit00@hs-esslingen.de		
+
+#Lukas Wagner	luwait00@hs-esslingen.de		
+#Atilla Caglar Erdogan	aterit00@hs-esslingen.de		
+
+#Viktor Organ	viorit00@hs-esslingen.de		
+#Lennart Zaglauer	lezait00@hs-esslingen.de		
+#Sinan Can Altunbas	sialwi00@hs-esslingen.de		
+
+#Kai-Nikolas Muenz	E-Mail-Adresse verbergen		
+#Sergej Kelberer	sekeit00@hs-esslingen.de		
+
+#Kazim Kaya	kakait01@hs-esslingen.de		
+#Murat Durgun	muduit03@hs-esslingen.de		
+
+#Shaker Abdolrahman Al Saleh	shabit00@hs-esslingen.de		
+#Mark Marszal	mamait19@hs-esslingen.de		
+#Simon Achille Ngoue Kona	singit00@hs-esslingen.de		
+
+#Carlo Babo	cabait00@hs-esslingen.de		
+#Roland Fronczek	rofrit01@hs-esslingen.de		
+
+#Armin Hasandic	arhait00@hs-esslingen.de		
+#Robin Eissele	roeiit00@hs-esslingen.de		
+#Oliver Stein	olstit01@hs-esslingen.de		
+
+#Pascal Helmrich	paheit01@hs-esslingen.de		
+#Aleg Vilinski	alviit00@hs-esslingen.de		
+#Axel Schwab	axscit00@hs-esslingen.de		
+
+#Nadine Haux	nahait00@hs-esslingen.de		
+#Phillip Ortiz Goethling	phorit00@hs-esslingen.de		
+
+#Matthias Geckeler	mageit00@hs-esslingen.de		
+#Thomas Guenter	thguit01@hs-esslingen.de		
+
+#Michael Bui	mibuit03@hs-esslingen.de		
+#Yavuz Selim Goekcek	yagoit01@hs-esslingen.de		
+
+#Yusuf Coban	yucoit00@hs-esslingen.de
+#Felix Simon Gutoehrlein	feguit00@hs-esslingen.de		
+#Ali Harrouch	alhait04@hs-esslingen.de		
+
+#Felix Grammling	fegrit00@hs-esslingen.de		
+#Samuel Maier	samait01@hs-esslingen.de		
+
+#Oliver Wasser	olwait00@hs-esslingen.de		
+
+#Michael Watzko	miwait02@hs-esslingen.de		
+#Peer Berberich	pebeit00@hs-esslingen.de		
+
+#David Hoessle	dahoit02@hs-esslingen.de		
+#Luca Heft	luheit01@hs-esslingen.de		
+
+#Tobias Kreiter	tokrit00@hs-esslingen.de		
+#Lennart Dopatka	ledoit00@hs-esslingen.de		
+
+#Levent Cetin	leceit00@hs-esslingen.de		
+#Harun Demir	hadeit01@hs-esslingen.de		
+
+#Simon Haber	sihait00@hs-esslingen.de		
+#Romual Kuete Tchio	rokuit00@hs-esslingen.de		
+
+#Manuel-Tobias Csapo	macsit00@hs-esslingen.de		
+#Sinah Mailin Schabert	siscit05@hs-esslingen.de		
+#Silvio Keitel	sikeit00@hs-esslingen.de		
+
+#Marius Deuschle	madeit02@hs-esslingen.de		
+#Sebastian Salokat	sesait02@hs-esslingen.de		
+#Nico Kuhn	nikuit01@hs-esslingen.de
+
+#Ceyhun Kalayci	cekait01@hs-esslingen.de		
+#Chris Haenisch	chhait07@hs-esslingen.de		
+#Christoph Friedrich	chfrit00@hs-esslingen.de		
+#Johannes Maisch	jomait03@hs-esslingen.de		
+#Thilo Kalmbach	thkait01@hs-esslingen.de		
+#Thuy-Vi Uong	thuowi00@hs-esslingen.de		
+
+sagroup1 = dasiit01, laprit00, paleit00
+sagroup2 = frmeit00, anwoit03
+sagroup3 = erscit02, miscit07, chmiit01
+sagroup4 = anmeit01, lihait00, scarit00
+sagroup5 = erghwi00, akyuwi00, phtuwi00
+sagroup6 = bjkait00 
+sagroup7 = adtoit00, coscit00
+sagroup8 = soscit00, sebuit02
+sagroup9 = robeit03, jahoit00, stsiit01
+sagroup10 = nukoit00, ibamit00, ererit02
+sagroup11 = maweit05, vaorit00, faflit00
+sagroup12 = bukait01, jukoit01
+sagroup13 = alcait00, onalit00, akciit00
+sagroup14 = faweit02, mahait12, vistit00
+sagroup15 = luwait00, aterit00
+sagroup16 = viorit00, lezait00, sialwi00
+sagroup17 = sekeit00
+sagroup18 = kakait01, muduit03
+sagroup19 = shabit00, mamait19, singit00
+sagroup20 = cabait00, rofrit01
+sagroup21 = arhait00, roeiit00, olstit01
+sagroup22 = paheit01, alviit00, axscit00
+sagroup23 = nahait00, phorit00
+sagroup24 = mageit00, thguit01
+sagroup25 = mibuit03, yagoit00
+sagroup26 = yucoit00, feguit00, alhait04
+sagroup27 = fagrit00, samait01
+sagroup28 = olwait00
+sagroup29 = miwait02. pebeit00
+sagroup30 = dahoit02, luheit01
+sagroup31 = tokrit00, ledoit00
+sagroup32 = leceit00, hadeit01
+sagroup33 = sihait00, rokuit00
+sagroup34 = macsit00, siscit05, sikeit00
+sagroup35 = madeit02, sesait02, nikuit01
+
+
+#----------------------EDIT ZONE END-----------------------------------------------
+
+ezsgroupall = @ezsgroup1, @ezsgroup2, @ezsgroup3, @ezsgroup4, @ezsgroup5, @ezsgroup6, @ezsgroup7, @ezsgroup8, @ezsgroup9, @ezsgroup10, @ezsgroup11, @ezsgroup12, @ezsgroup13, @ezsgroup14, @ezsgroup15, @ezsgroup16, @ezsgroup17, @ezsgroup18, @ezsgroup19, @ezsgroup20, @ezsgroup21, @ezsgroup22, @ezsgroup23, @ezsgroup24, @ezsgroup25, @ezsgroup26, @ezsgroup27, @ezsgroup28, @ezsgroup29, @ezsgroup30, @ezsgroup31, @ezsgroup32, @ezsgroup33, @ezsgroup34, @ezsgroup35  
+ 
+sagroupall = @sagroup1, @sagroup2, @sagroup3, @sagroup4, @sagroup5, @sagroup6, @sagroup7, @sagroup8, @sagroup9, @sagroup10, @sagroup11, @sagroup12, @sagroup13, @sagroup14, @sagroup15, @sagroup16, @sagroup17, @sagroup18, @sagroup19, @sagroup20, @sagroup21, @sagroup22, @sagroup23, @sagroup24, @sagroup25, @sagroup26, @sagroup27, @sagroup28, @sagroup29, @sagroup30, @sagroup31, @sagroup32, @sagroup33, @sagroup34, @sagroup35
+ 
+[template:/]
+@ezsadmins = rw
+@ezsgroupall = r
+
+[ezsrepo1:/]
+@ezsgroup1 = rw
+@ezsadmins = r
+
+[ezsrepo2:/]
+@ezsgroup2 = rw
+@ezsadmins = r
+
+[ezsrepo3:/]
+@ezsgroup3 = rw
+@ezsadmins = r
+
+[ezsrepo4:/]
+@ezsgroup4 = rw
+@ezsadmins = r
+
+[ezsrepo5:/]
+@ezsgroup5 = rw
+@ezsadmins = r
+
+[ezsrepo6:/]
+@ezsgroup6 = rw
+@ezsadmins = r
+
+[ezsrepo7:/]
+@ezsgroup7 = rw
+@ezsadmins = r
+
+[ezsrepo8:/]
+@ezsgroup8 = rw
+@ezsadmins = r
+
+[ezsrepo9:/]
+@ezsgroup9 = rw
+@ezsadmins = r
+
+[ezsrepo10:/]
+@ezsgroup10 = rw
+@ezsadmins = r
+
+[ezsrepo11:/]
+@ezsgroup11 = rw
+@ezsadmins = r
+
+[ezsrepo12:/]
+@ezsgroup12 = rw
+@ezsadmins = r
+
+[ezsrepo13:/]
+@ezsgroup13 = rw
+@ezsadmins = r
+
+[ezsrepo14:/]
+@ezsgroup14 = rw
+@ezsadmins = r
+
+[ezsrepo15:/]
+@ezsgroup15 = rw
+@ezsadmins = r
+
+[ezsrepo16:/]
+@ezsgroup16 = rw
+@ezsadmins = r
+
+[ezsrepo17:/]
+@ezsgroup17 = rw
+@ezsadmins = r
+
+[ezsrepo18:/]
+@ezsgroup18 = rw
+@ezsadmins = r
+
+[ezsrepo19:/]
+@ezsgroup19 = rw
+@ezsadmins = r
+
+[ezsrepo20:/]
+@ezsgroup20 = rw
+@ezsadmins = r
+
+[ezsrepo21:/]
+@ezsgroup21 = rw
+@ezsadmins = r
+
+[ezsrepo22:/]
+@ezsgroup22 = rw
+@ezsadmins = r
+
+[ezsrepo23:/]
+@ezsgroup23 = rw
+@ezsadmins = r
+
+[ezsrepo24:/]
+@ezsgroup24 = rw
+@ezsadmins = r
+
+[ezsrepo25:/]
+@ezsgroup25 = rw
+@ezsadmins = r
+
+[ezsrepo26:/]
+@ezsgroup26 = rw
+@ezsadmins = r
+
+[ezsrepo27:/]
+@ezsgroup27 = rw
+@ezsadmins = r
+
+[ezsrepo28:/]
+@ezsgroup28 = rw
+@ezsadmins = r
+
+[ezsrepo29:/]
+@ezsgroup29 = rw
+@ezsadmins = r
+
+[ezsrepo30:/]
+@ezsgroup30 = rw
+@ezsadmins = r
+
+[ezsrepo31:/]
+@ezsgroup31 = rw
+@ezsadmins = r
+
+[ezsrepo32:/]
+@ezsgroup32 = rw
+@ezsadmins = r
+
+[ezsrepo33:/]
+@ezsgroup33 = rw
+@ezsadmins = r
+
+[ezsrepo34:/]
+@ezsgroup34 = rw
+@ezsadmins = r
+
+[ezsrepo35:/]
+@ezsgroup35 = rw
+@ezsadmins = r
+
+
+#--------------------SA REPOS -------------------------
+
+[sarepo1:/]
+@sagroup1 = rw
+@saadmins = r
+
+[sarepo2:/]
+@sagroup2 = rw
+@saadmins = r
+
+[sarepo3:/]
+@sagroup3 = rw
+@saadmins = r
+
+[sarepo4:/]
+@sagroup4 = rw
+@saadmins = r
+
+[sarepo5:/]
+@sagroup5 = rw
+@saadmins = r
+
+[sarepo6:/]
+@sagroup6 = rw
+@saadmins = r
+
+[sarepo7:/]
+@sagroup7 = rw
+@saadmins = r
+
+[sarepo8:/]
+@sagroup8 = rw
+@saadmins = r
+
+[sarepo9:/]
+@sagroup9 = rw
+@saadmins = r
+
+[sarepo10:/]
+@sagroup10 = rw
+@saadmins = r
+
+[sarepo11:/]
+@sagroup11 = rw
+@saadmins = r
+
+[sarepo12:/]
+@sagroup12 = rw
+@saadmins = r
+
+[sarepo13:/]
+@sagroup13 = rw
+@saadmins = r
+
+[sarepo14:/]
+@sagroup14 = rw
+@saadmins = r
+
+[sarepo15:/]
+@sagroup15 = rw
+@saadmins = r
+
+[sarepo16:/]
+@sagroup16 = rw
+@saadmins = r
+
+[sarepo17:/]
+@sagroup17 = rw
+@saadmins = r
+
+[sarepo18:/]
+@sagroup18 = rw
+@saadmins = r
+
+[sarepo19:/]
+@sagroup19 = rw
+@saadmins = r
+
+[sarepo20:/]
+@sagroup20 = rw
+@saadmins = r
+
+[sarepo21:/]
+@sagroup21 = rw
+@saadmins = r
+
+[sarepo22:/]
+@sagroup22 = rw
+@saadmins = r
+
+[sarepo23:/]
+@sagroup23 = rw
+@saadmins = r
+
+[sarepo24:/]
+@sagroup24 = rw
+@saadmins = r
+
+[sarepo25:/]
+@sagroup25 = rw
+@saadmins = r
+
+[sarepo26:/]
+@sagroup26 = rw
+@saadmins = r
+
+[sarepo27:/]
+@sagroup27 = rw
+@saadmins = r
+
+[sarepo28:/]
+@sagroup28 = rw
+@saadmins = r
+
+[sarepo29:/]
+@sagroup29 = rw
+@saadmins = r
+
+[sarepo30:/]
+@sagroup30 = rw
+@saadmins = r
+
+[sarepo31:/]
+@sagroup31 = rw
+@saadmins = r
+
+[sarepo32:/]
+@sagroup32 = rw
+@saadmins = r
+
+[sarepo33:/]
+@sagroup33 = rw
+@saadmins = r
+
+[sarepo34:/]
+@sagroup34 = rw
+@saadmins = r
+
+[sarepo35:/]
+@sagroup35 = rw
+@saadmins = r
+
+
+
+
+## add a new group ezs-students with one member
+
+#dn: cn=ezs-students,ou=groups,dc=hs-esslingen,dc=de
+#changetype: add
+#objectClass: groupOfNames
+#objectClass: top
+#description: pwm admin groups branch
+#cn: ezs-students
+#member: cn=vagrawal,ou=people,dc=hs-esslingen,dc=de
+
+
+## add the OU students under people
+
+#dn: ou=students,ou=people,dc=hs-esslingen,dc=de
+#changetype: add
+#ou: students
+#objectClass: organizationalUnit
+#objectClass: top
+
+
+##add a new member under students
+
+
+#dn: cn=$(student-to-add),ou=students,ou=people,dc=hs-esslingen,dc=de
+#changetype: add
+#givenName: Ezslab
+#sn: Student 
+#userPassword:: e1NTSEF9UWZEb3U5MW40My9Dc1ZYbFNPMGI4a0drempSaFlqMFE=
+#mail: ezslab-student@hs-esslingen.de
+#objectClass: inetOrgPerson
+#objectClass: organizationalPerson
+#objectClass: person
+#objectClass: top
+#objectClass: pwmUser
+#memberof: cn=$(group-to-add),ou=groups,dc=hs-esslingen,dc=de
+#uid: $(student-to-add)
+#cn: $(student-to-add)
+
+## modify the added member
+
+#DN: cn=ezslabstudent1,ou=students,ou=people,dc=hs-esslingen,dc=de
+#changetype: modify
+#replace: userpassword
+#userpassword: youmustchangeyourpassword
+
+##add a member to the group ezs-students
+
+#dn: cn=$(member-to-add),ou=groups,ou=students,dc=hs-esslingen,dc=de
+#changetype: modify
+#add: member
+#member: cn=$(member-to-add),ou=people,ou=students,dc=hs-esslingen,dc=de
+
+
